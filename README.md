@@ -17,7 +17,7 @@ Program ini menggunakan ArrayList untuk menyimpan data resep dan menu dipilih de
 2. Memvalidasi input agar hanya berupa angka dan mengembalikan hasilnya dalam bentuk integer.
    <img width="1321" height="450" alt="image" src="https://github.com/user-attachments/assets/c276a51c-8ac0-4540-add0-d082bd02c37c" />
 
-3. Menyiapkan wadah untuk daftar resep, scanner input, dan variabel pilihan menu.
+3. Menyiapkan wadah (ArrayList) untuk daftar resep, scanner input, dan variabel pilihan menu.
    <img width="1330" height="183" alt="image" src="https://github.com/user-attachments/assets/b041c4f2-1587-4946-a5ca-eb61cdfa5d42" />
 
 4. Menampilkan daftar menu dan meminta user memilih opsi yang tersedia.
