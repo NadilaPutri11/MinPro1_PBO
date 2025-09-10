@@ -10,7 +10,7 @@ public class Resepmakanan {
         int pilihan;
 
         while (true) {
-            System.out.println("\n=== MENU MANAJEMEN RESEP MASAKAN ===");
+            System.out.println("\n=== MENU MANAJEMEN RESEP MAKANAN ===");
             System.out.println("1. Tambah Resep");
             System.out.println("2. Lihat Resep");
             System.out.println("3. Ubah Resep");
