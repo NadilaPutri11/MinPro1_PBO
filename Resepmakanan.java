@@ -84,7 +84,7 @@ public class Resepmakanan {
                 }
 
             } else if (pilihan == 5) {
-                System.out.println("Program selesai. Terima kasih!");
+                System.out.println("Terima kasih sudah mencoba resep kami, semoga masakan Anda berhasil dan lezat!");
                 break;
 
             } else {
