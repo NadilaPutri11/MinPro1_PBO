@@ -27,7 +27,9 @@ Program ini menggunakan ArrayList untuk menyimpan data resep dan menu dipilih de
    <img width="1194" height="398" alt="image" src="https://github.com/user-attachments/assets/7f252fcf-c68b-460c-8ed2-b4ac7747e110" />
    <img width="1212" height="505" alt="image" src="https://github.com/user-attachments/assets/d486d5a8-d5fc-4e8a-912e-bd77e180ac54" />
 5. Jika user memilih "Ubah", user menginputkan nomor resep yang namanya akan diubah lalu menginputkan nama baru untuk penggantinya.
-   
+   <img width="1333" height="566" alt="image" src="https://github.com/user-attachments/assets/17c37ad3-ebc8-447d-b894-ddc515989502" />
 6. Jika user memilih "Hapus", user menginputkan nomor nama resep yang ingin dihapus.
-   
+   <img width="1429" height="1235" alt="image" src="https://github.com/user-attachments/assets/b337a7fd-ff56-4f08-8d2a-9b8f0f393a65" />
 7. Program akan terus berjalan sampai user memilih menu "Keluar".
+   <img width="1488" height="521" alt="image" src="https://github.com/user-attachments/assets/ae3e7909-3718-473a-a0c6-33e1b7d8dad8" />
+
